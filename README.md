@@ -1,7 +1,12 @@
-# stocks-analysis
+# Stocks-Analysis
 Analyzing stocks using VBA
 
 ## Overview of Project
+
+### Purpose
+VBA code was refactored to loop through a dataset of the entire stock market over the last few years.
+
+### Background
 
 
 ## Results
